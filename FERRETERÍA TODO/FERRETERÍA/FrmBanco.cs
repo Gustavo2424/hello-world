@@ -95,10 +95,5 @@ namespace FERRETERÍA
             GrvBanco.DataSource = dtBanco;
 
         }
-
-        private void Label3_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -116,10 +116,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(267, 59);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(215, 13);
+            this.label3.Size = new System.Drawing.Size(207, 13);
             this.label3.TabIndex = 8;
-            this.label3.Text = "Inserta Descripción ejemplo (Bancommmmer";
-            this.label3.Click += new System.EventHandler(this.Label3_Click);
+            this.label3.Text = "Inserta Descripción ejemplo (BANCOMER)";
             // 
             // GrvBanco
             // 
